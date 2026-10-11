@@ -26,7 +26,7 @@ export const LINKS = {
     assessments: new URL("../assessments/assessments.html", import.meta.url).href,
     reports:     new URL("../reports/reports.html",         import.meta.url).href,
     settings:    new URL("../settings/settings.html",       import.meta.url).href,
-    login:       new URL("../login/login.html",             import.meta.url).href
+    login:       new URL("../login/index.html",             import.meta.url).href
 };
 
 // ---------- cookies ----------
